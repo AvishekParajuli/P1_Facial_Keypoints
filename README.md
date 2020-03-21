@@ -1,7 +1,7 @@
 [//]: # (Image References)
 
 [image1]: ./images/key_pts_example.png "Facial Keypoint Detection"
-
+#IMP: This is personal repository for udacity CVND project solutions. **Try your own solutions before peeking at the solutions.**
 # Facial Keypoint Detection
 
 ## Project Overview
